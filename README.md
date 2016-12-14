@@ -1,2 +1,2 @@
 ## test-repo
-*First git repository for test
+* First git repository for test
